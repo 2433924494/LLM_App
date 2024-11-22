@@ -3,6 +3,9 @@
 ![文本纠错助手.png](images%2F%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%A9%E6%89%8B.png)
 ## 微博文案生成助手
 ![微博文案生成助手.png](images%2F%E5%BE%AE%E5%8D%9A%E6%96%87%E6%A1%88%E7%94%9F%E6%88%90%E5%8A%A9%E6%89%8B.png)
+## 心理咨询师
+![心理咨询师.png](images/%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%B8%88.png)
+![心理咨询师2.png](images/%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%B8%882.png)
 ## How to use
 ### 直接运行
 - `streamlit run 首页.py`
