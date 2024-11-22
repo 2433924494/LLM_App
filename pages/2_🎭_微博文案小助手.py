@@ -1,5 +1,5 @@
 import langchain
-from utils import generate_weibo
+from Lab2_utils import *
 import streamlit as st
 if "api_key" not in st.session_state:
     st.session_state.api_key = ""
